@@ -1,7 +1,7 @@
 from instagrapi import Client
 
 cl = Client()
-cl.login('ivancho202365', 'Rompimiento$2020')
+cl.login('xxxx', 'xxxx')
 
 # usuario target
 id = cl.user_id_from_username('dinglish.academy')
